@@ -137,5 +137,5 @@ Bueno, Osmo-BTS-Virtual está  tratando de abrir su interfaz Abis pero no está 
 
 En la siguiente publicación nos moveremos de usar una osmo-bts virtual a usar un SDR para ejecutar Osmo-BTS. Si usarás un dispositivo RAN comercia, o solo simplemente jugando sin ningún RAN, pasa directamente a la publicación sobre la  Controladora de Estación Base (BSC), en donde vamos a retomar la adición de nuestra BTS Virtual a la BSC.
 
-## Traducción de Nickvsnetworking
+## Fuente Nickvsnetworking
 [GSM with osmcom part 3 introduction to osmo software virtual bts](https://nickvsnetworking.com/gsm-with-osmocom-part-3-introduction-to-osmo-software-virtual-bts/)

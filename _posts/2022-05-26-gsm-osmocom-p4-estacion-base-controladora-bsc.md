@@ -259,6 +259,6 @@ OsmoBSC#
 
 Si has llegado hasta aquí, felicitaciones!. Nuestra BTS Virtual ahora está conectada a nuestra BSC - ¡Si no fuera virtual, estariamos al aire!
 
-## Traducción de Nickvsnetworking
+## Fuente Nickvsnetworking
 
 [GSM con osmocom part4 the base station controller bsc](https://nickvsnetworking.com/gsm-with-osmocom-part-4-the-base-station-controller-bsc/)

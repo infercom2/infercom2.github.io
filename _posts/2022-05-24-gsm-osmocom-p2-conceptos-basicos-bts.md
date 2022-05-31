@@ -78,6 +78,6 @@ Veremos una pequeña parte del uso de OML en la siguiente publicación, solo par
 
 Así que vamos a poner esto en práctica y configurar una BTS Virtual con Osmocom.
 
-## Traducción de Nickvsnetworking
+## Fuente Nickvsnetworking
 
 [GSM with osmcom part 2 BTS Basics](https://nickvsnetworking.com/gsm-with-osmocom-part-2-bts-basics/)

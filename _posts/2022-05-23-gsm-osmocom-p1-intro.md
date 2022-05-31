@@ -87,6 +87,6 @@ Actualizaré los enlaces aquí a medida que haga las publicaciones, es posible q
 + [Conceptos básicos de llamadas y SMS](https://nickvsnetworking.com/gsm-with-osmocom-part-9-calls-sms-at-last/)
 + [Enrutamiento de llamadas](https://nickvsnetworking.com/gsm-with-osmocom-call-routing-in-gsm/)
 
-## Traducción de Nickvsnetworking
+## Fuente Nickvsnetworking
 [GSM with osmocom part 1 - Intro ](https://nickvsnetworking.com/gsm-with-osmocom-part-1-intro/) 
 
