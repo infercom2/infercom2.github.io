@@ -12,7 +12,7 @@ date: 2022-03-25
 <p align="center">
 </p>
 Mi nombre e Javier De La Cruz Martínez (aka **infercom2**), actualmente colaboro en Telecomunicaciones Indígenas Comunitarias A.C.,
-promotor de Software Libre, egresaro del Instituto Tecnlógico del Istmo (Oaxaca,México )  como Ing. en Sistemas Computacionales, actualmente cursando un Master en Seguridad Informática
+promotor de Software Libre, egresaro del Instituto Tecnlógico del Istmo (Oaxaca,México )  como Ing. en Sistemas Computacionales, me encuentro cursando un Master en Seguridad Informática.
 
 **Lenguas:**
 
