@@ -2,7 +2,7 @@
 layout: single
 title: GSM con Osmocom - Introducción Parte 4 - La Estación Base Controladora (BSC)
 excerpt: "Configurando una Estación Base Controladora GSM con el stack de Osmocom"
-date: 2022-05-25
+date: 2022-05-26
 classes: wide
 header:
   teaser: /assets/images/osmocom/p4/BSC-Architecture.png
