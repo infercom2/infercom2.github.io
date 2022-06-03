@@ -141,6 +141,7 @@ Si todo va según lo planeado, nuestra SDR esta conectada al equipo a través de
 
 Analicemos las redes de nuestro teléfono. Descubrí que porner el mío en GSM solo antes de buscar redes significaba que aparecía mucho más rápido. 
 
+![](/assets/images/osmocom/p6/Screenshot_2020-03-29-19-45-51.png)
 ## Fuente Nickvsnetworking
 
 [GSM con osmocom part6 Integrating our LimeSDR BTS with OsmoBSC](https://nickvsnetworking.com/gsm-with-osmocom-part-6-integrating-our-limesdr-bts-with-osmobsc/)
