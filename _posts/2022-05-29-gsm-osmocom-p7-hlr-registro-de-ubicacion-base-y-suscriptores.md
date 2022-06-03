@@ -5,7 +5,7 @@ excerpt: "Que es lo que el Registro de Ubicación Base (HLR -Home Location Regis
 date: 2022-05-28
 classes: wide
 header:
-  teaser: /assets/images/osmocom/p6/GSM-Architecture-1.png
+  teaser: /assets/images/osmocom/p7/OsmoHLR-Update-Location-Request.png
   teaser_home_page: true
   icon: /assets/images/osmocom/p1/Osmo.webp
 categories:
