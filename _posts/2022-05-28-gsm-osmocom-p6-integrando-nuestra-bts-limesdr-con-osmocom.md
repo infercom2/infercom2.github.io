@@ -139,7 +139,7 @@ Y las ventanas osmo-trx-lms y osmo-bts-trx deberian de tener datos pasando a una
 
 Si todo va según lo planeado, nuestra SDR esta conectada al equipo a través de osmo-trx-lms el cual está actuando como un modem para osmo-bts-trx el cual está conectado ahora a la BSC. Hay mucho que recorrer, pero a partir de aquí se vuelve más fácil.
 
-Analicemos las redes de nuestro teléfono. Descubrí que porner el mío en GSM solo antes de buscar redes significaba que aparecía mucho más rápido. 
+Analicemos las redes de nuestro teléfono. Descubrí que poner el mío en GSM solo antes de buscar redes significaba que aparecía mucho más rápido. 
 
 ![](/assets/images/osmocom/p6/Screenshot_2020-03-29-19-45-51.png)
 ## Fuente Nickvsnetworking
