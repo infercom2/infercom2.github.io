@@ -88,3 +88,6 @@ Hay algunos temas que omitimos en este tema, cosas como SS7/ SIGTRAN, como se en
 Haré publicaciones que cubran cada uno de estos temas a mayor profundidad.
 
 
+## Fuente Nickvsnetworking
+
+[GSM con osmocom part8 The Mobile Switching Center ](https://nickvsnetworking.com/gsm-with-osmocom-part-7-the-mobile-switching-center/)
