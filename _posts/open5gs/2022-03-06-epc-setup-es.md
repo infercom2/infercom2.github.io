@@ -18,6 +18,7 @@ tags:
 ---
 **Nota:** Esta información fue obtenida desde el git del proyecto CoLTE, puedes encontrar información al final de la publicación.
 
+![](/assets/images/open5gs/epc-setup/colte-uwl.jpeg){:height='200px' width='200px'} ![](/assets/images/open5gs/epc-setup/open5gs-logo.png)
 # EPC Instalación y Configuración
 
 El paquete CoLTE puede ejecutarse en las versiones de 64 bits de Ubuntu 18.04 LTS (Bionic
