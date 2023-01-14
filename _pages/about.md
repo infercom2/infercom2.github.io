@@ -6,21 +6,33 @@ date: 2022-03-25
 
 
 ---
+![](/assets/images/j4v-bio/jav-bio-2.jpg "Javier De La Cruz Martínez 1"){: height="325px" width="225px" }
+![](/assets/images/j4v-bio/jav-bio-1.jpg "Javier De La Cruz Martínez 2"){: height="325px" width="225px" } ![](/assets/images/j4v-bio/jav-bio-3.jpg "Javier De La Cruz Martínez 2"){: height="325px" width="225px" }![](/assets/images/j4v-bio/jav-bio-4.jpg "Javier De La Cruz Martínez 2"){: height="325px" width="225px" }![](/assets/images/j4v-bio/jav-bio-5.jpg "Javier De La Cruz Martínez 2"){: height="455px" width="325px" }
 
-<br>
+# Bio 
 
-<p align="center">
-</p>
+---
+
+<p style="text-align: justify;">
 Mi nombre e Javier De La Cruz Martínez (aka **infercom2**), actualmente colaboro en Telecomunicaciones Indígenas Comunitarias A.C.,
-promotor de Software Libre, egresaro del Instituto Tecnlógico del Istmo (Oaxaca,México )  como Ing. en Sistemas Computacionales, me encuentro cursando un Master en Seguridad Informática.
+promotor de Software Libre, la seguridad informática, privacidad y derechos digitales, egresado del Instituto Tecnlógico del Istmo (Juchitan de Zaragoza,Oaxaca,México )  como Ing. en Sistemas Computacionales, con un Master en Seguridad Informática en la Universidad Internacional de la Rioja en Mexico. 
+</p>
 
-**Lenguas:**
+
+---
+
+***
+
+# Lenguas:
+
 
 - Español : Hablante nativo de la lengua
 - Zapoteco: Hablante de la lengua
 - Inglés: Nivel intermedio
 
-**Capacitaciones recibidas:**
+***
+
+# Capacitaciones recibidas:
 -  Diplomado en Gestión de la Seguridad y Marco Legal – Universidad Internacional de la Rioja en México,N.º Diploma: 202110/10/08551, (En Línea)  2021
 -  Diplomado en Soft Skills y Habilidades Directivas – Universidad Internacional de la Rioja en México (En Línea)  2021
 -  Bsafe: seguridad en zonas de riesgo  - Organización de las Naciones Unidas - (En Línea)
@@ -37,11 +49,9 @@ promotor de Software Libre, egresaro del Instituto Tecnlógico del Istmo (Oaxaca
 -  Redes moviles GSM,3G,4G y 5G – SYSCOM (Oaxaca, México)
 -  Encuentro sobre Tecnología y Revolución – organizado por la Asociación internacional Primero de mayo (CDMX, México)
 
+***
 
-
-
-
-**Eventos y Participaciones:**
+# Eventos y Participaciones:
 
 -  Telefonía Celular Comunitaria: "Pro's y contras de la tecnología hegemónica" – (Flisol Latinoamerica - Online )
 -  Reescritura Tecnológica en México – UNAM (Online) 
