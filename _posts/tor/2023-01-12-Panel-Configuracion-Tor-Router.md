@@ -17,7 +17,8 @@ tags:
   - privacidad
 
 ---
-![](/assets/images/tor/01-config-router/arm300-ext.jpg)
+![](/assets/images/tor/01-config-router/arm300-ext.jpg){: height="500px" width="500px" style="display:block; margin-left:auto; margin-right:auto" }
+
 
 El contenido de este artículo sirve para poder ingresar al sistema del pequeño pero poderoso Router que viene con un cliente de Tor para poder brindar conexiones dentro del circuito de la red Tor.
 
@@ -30,13 +31,15 @@ El dispositivo es un GL-Inet  AR300M (Shadow) también puede ser usada la config
 * LAN: Para brindarle servicio de internet a otro equipo
 2. Conexión Inálambrica: Para poder brindar conexión a equipos con conexión inálambrica
 
-![](/assets/images/tor/01-config-router/Conexion-cableada.jpg)
+![](/assets/images/tor/01-config-router/Conexion-cableada.jpg){: height="300px" width="300px" style="display:block; margin-left:auto; margin-right:auto" }
+
 
 ## Acceder a la interfaz / Panel de Bienvenida
 
 ![](/assets/images/tor/01-config-router/P-B-Router.jpg)
 
 Al conectarse al dispositivo este por defecto tiene la dirección IP **192.168.8.1** por lo que desde cualquier navegador podemos ingresar a la interfaz de configuración con la IP. 
+La contraseña por **defecto** para los equipos adquiridos deben de ser los últimos 8 dígitos del número de serie.
 
 http://192.168.8.1/
 
@@ -139,4 +142,3 @@ Las capturas de velocidad se realizaron con una conexión de Internet Descarga: 
 ![](/assets/images/tor/01-config-router/speed-2.jpg)
 
 
-http://127.0.0.1:4000
