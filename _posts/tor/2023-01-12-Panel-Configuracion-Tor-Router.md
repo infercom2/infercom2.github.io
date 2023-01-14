@@ -7,7 +7,7 @@ classes: wide
 header:
   teaser: /assets/images/tor/01-config-router/arm300-ext.jpg
   teaser_home_page: true
-  icon: /assets/images/tor/01-config-router/arm300-ext.webp
+  icon: /assets/images/tor/01-config-router/arm300-ext.jpg
 categories:
   - tor
   - networking
