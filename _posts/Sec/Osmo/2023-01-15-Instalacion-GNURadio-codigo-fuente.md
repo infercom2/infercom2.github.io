@@ -49,7 +49,7 @@ Después de haber instalado, el comando ldconfig para configurar los vinculos de
 
 En este ejemplo se descarga el release 3.8.1.0
 
-[Descargar tar.gz](https://github.com/gnuradio/gnuradio/releases/tag/v3.8.1.0)
+[Descargar tar.gz](https://github.com/gnuradio/gnuradio/archive/refs/tags/v3.8.5.0.tar.gz)
 
 
 ## Compilar Código fuente
