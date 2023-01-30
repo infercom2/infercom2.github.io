@@ -78,7 +78,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : infercom_2
 facebook:
   username               :
   app_id                 :
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Javier de la Cruz Martínez"
   avatar           : "/assets/images/perfil.png"
-  bio              : "ISC Sistemas Computacionales"
+  bio              : "Master en Seguridad Informática"
   location         : "Oaxaca, México"
   email            : "infercom2@gmail.com"
   uri              :
