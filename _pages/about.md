@@ -13,11 +13,10 @@ date: 2023-01-29
 
 ---
 
-<p style="text-align: justify;">
-Mi nombre es Javier De La Cruz Martínez (aka **infercom2**), actualmente colaboro en Telecomunicaciones Indígenas Comunitarias A.C.,
-promotor de Software Libre, la seguridad informática, privacidad y derechos digitales, egresado del Instituto Tecnlógico del Istmo (Juchitan de Zaragoza,Oaxaca,México )  como Ing. en Sistemas Computacionales, con un Master en Seguridad Informática en la Universidad Internacional de la Rioja en Mexico. 
+Mi nombre es Javier De La Cruz Martínez (aka **infercom2**), soy indígena Zapoteca originario de Juchitan de Zaragoza Oaxaca, México ciudad ubicada en el Istmo de Tehuantepec, actualmente colaboro en Telecomunicaciones Indígenas Comunitarias A.C.
+<p style="text-align: justify;"> 
+Además promotor de Software Libre, la seguridad tanto dígital como informática, la privacidad y los derechos digitales, egresado del Instituto Tecnlógico del Istmo (Juchitan de Zaragoza,Oaxaca ) como Ing. en Sistemas Computacionales, con un Master en Seguridad Informática en la Universidad Internacional de la Rioja en Mexico. 
 </p>
-
 
 ---
 
@@ -26,8 +25,8 @@ promotor de Software Libre, la seguridad informática, privacidad y derechos dig
 # Lenguas:
 
 
-- Español : Hablante nativo de la lengua
 - Zapoteco: Hablante de la lengua
+- Español: Hablante de la lengua
 - Inglés: Nivel intermedio
 
 ***
@@ -53,6 +52,7 @@ promotor de Software Libre, la seguridad informática, privacidad y derechos dig
 
 # Eventos y Participaciones:
 
+-  Encontro de Rede de Pesquisa em Governaça da Internet - (Brasil - Online )
 -  Telefonía Celular Comunitaria: "Pro's y contras de la tecnología hegemónica" – (Flisol Latinoamerica - Online )
 -  Reescritura Tecnológica en México – UNAM (Online) 
 -  Telefonía Celular Comunitaria:  “La lucha por el bien común – Tecnológico de Monterrey Campus Puebla” (Puebla, México)
