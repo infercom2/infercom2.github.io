@@ -2,7 +2,7 @@
 layout: splash
 title: "Información del Autor"
 permalink: /about/
-date: 2022-03-25
+date: 2023-01-29
 
 
 ---
