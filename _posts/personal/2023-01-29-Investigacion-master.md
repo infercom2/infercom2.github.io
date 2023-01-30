@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Documento de Proyecto de Investigación Master
+title: Proyecto de Investigación Master en Seguridad Informatica 2022
 excerpt: "En la siguiente publicación se puede visualizar mi documento del proyecto de investigación para el grado de Master en Seguridad Informática"
 date: 2023-01-29
 classes: wide
