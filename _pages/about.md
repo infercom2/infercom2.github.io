@@ -13,9 +13,23 @@ date: 2023-01-29
 
 ---
 
-Mi nombre es Javier De La Cruz Martínez (aka **infercom2**), soy indígena Zapoteca originario de Juchitan de Zaragoza Oaxaca, México ciudad ubicada en el Istmo de Tehuantepec, actualmente colaboro en Telecomunicaciones Indígenas Comunitarias A.C.
+Mi nombre es Javier De La Cruz Martínez (aka **infercom2**), 
+Originario de Juchitan de Zaragoza Oaxaca, una comunidad la sureste del estado de Oaxaca en México, zona de proyectos invasores como los son las energías eólicas, que es una propuesta de energía limpia, pero cambió mucho la forma de vida de las personas, incrementó la seguridad, y la desigualdad sigue siendo la misma o mucho mayor.
 <p style="text-align: justify;"> 
-Además promotor de Software Libre, la seguridad tanto dígital como informática, la privacidad y los derechos digitales, egresado del Instituto Tecnlógico del Istmo (Juchitan de Zaragoza,Oaxaca ) como Ing. en Sistemas Computacionales, con un Master en Seguridad Informática en la Universidad Internacional de la Rioja en Mexico. 
+Soy Indigena Zapoteca e Ingeniero en Sistemas Computacionales con un Master en Seguridad Informática.
+
+He participado en acompañamientos a organizaciones sociales, así como movimientos en defensa de los derechos humanos y del territorio.
+La mayoría de los integrantes de mi familia son profesores, tuve la oportunidad de seguir el mismo camino, pero decidí conocer otras formas de ver, pensar y hacer las cosas. Pero al final el camino lleva a compartir el conocimiento así que de alguna forma soy estudiante, pero en otras me convierto en profesor.
+
+He tenido la oportunidad entrar al mundo tecnológico, al mundo del software libre y código abierto, conocer personas de varios proyectos, aprender un poco de cada una de ellas. 
+
+Además he tenido la oportunidad de asistir a talleres de educación popular, uno de los más importantes que cambió parte de mi vida, ha sido en el IMDEC ( Instituto Mexicano para el Desarrollo Comunitario ) es una ONG ubicada en Guadalajara México, específicamente a talleres de “Comunidad de Aprendizaje para Una Praxis Emancipadora”, en donde era la única persona técnica y me hizo salir de los espacios técnicos y conocer una perspectiva más para compartir en actividades de trabajo con cultivo con la tierra, cosechar, debatir sobre temás politicos, así como realizar mapeos de actores y análisis de contexto, todo con el fin de fortalecer los procesos de defensa de la tierra y territorio.
+En el tema de la tecnología y el puesto, he tenido formación académica, pero lo más importante es el aprendizaje autónomo, pero  no hay nada mejor que aprender y practicar en comunidad, por lo que me gusta compartir el conocimiento, así como aprender las personas que tienen mayor experiencia. 
+Conocí un dicho de un gran amigo “Puedes encontrar a una persona con mayor conocimiento técnico sin enfoque social el cual es complejo de aprender, por que es una forma de pensar y un estilo de vida , y encontrar a una persona con enfoque social, sin mucho conocimiento técnico, pero es más facil enseñarle lo técnico por que lleva ya un proceso. ”
+</p>
+
+<p style="text-align: justify;"> 
+Además promotor de Software Libre, la seguridad tanto dígital como informática, la privacidad y los derechos digitales.
 </p>
 
 ---
