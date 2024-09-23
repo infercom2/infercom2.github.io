@@ -2,7 +2,7 @@
 layout: single
 title: Sistemas 4G Autónomos - CoLTE + Open5gs - Vulnerabilidades (II)
 excerpt: "Este nuevo capitulo se enfoca en las vulnerabilidades, y se menciona un poco de la teoría sobre los activos de información, vulnerabilidad, la importancia y los tipos de escáneres de vulnerabilidades, y un análisis básico de lo que se podría encontrar en una red 4G autónoma.  "
-date: 2024-09-22
+date: 2024-09-23
 classes: wide
 header:
   teaser: /assets/images/colte-open5gs/articles/CoLTE-open5gs-img.png
