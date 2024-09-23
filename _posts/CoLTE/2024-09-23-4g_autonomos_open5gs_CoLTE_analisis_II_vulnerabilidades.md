@@ -31,10 +31,10 @@ tags:
 
 Después de haber conocido un poco de los programas utilizados para la creación de una red autónoma 4G en el articulo anterior.
 
-Este nuevo capitulo explica se enfoca en las vulnerabilidades, se menciona un poco de la teoría sobre los activos de información, vulnerabilidad, su importancia y los tipos de escáneres de vulnerabilidades, y un análisis básico de lo que se podría encontrar en una red 4G autónoma. 
+Este nuevo capitulo se enfoca en las vulnerabilidades, y se menciona un poco de la teoría sobre los activos de información, vulnerabilidad, la importancia y los tipos de escáneres de vulnerabilidades, y un análisis básico de lo que se podría encontrar en una red 4G autónoma.
 El núcleo (core ) 4G  Open5gs + CoLTE en este entorno de pruebas, se encuentra en una maquina virtual, existe la opción de hacerla en un equipo de computo y/o un contenedor. La cual es un sistema que tendrá las mismas vulnerabilidades que un equipo de computo, normal común y corriente dependiendo de como se esté implementando, es decir existirán vulnerabilidades a distintas escalas, tanto a nivel de hardware, como a nivel de software, redes y subredes involucradas.
 
-Debido a que los sistemas 4G autónomos, utilizan la arquitectura del funcionamiento similar a las redes de internet convencionales (cableadas, inalámbricas) para la gestión del tráfico de la información, éste articulo puede ser utilizado como apoyo para las redes de internet comunitarias que su forma de conexión pueda ser cableada o inalámbrica. 
+Debido a que los sistemas 4G autónomos, utilizan la arquitectura del Modelo OSI el funcionamiento similar a las redes de internet convencionales (cableadas, inalámbricas) para la gestión del tráfico de la información, éste articulo puede ser utilizado como apoyo para las redes de internet comunitarias que su forma de conexión pueda ser cableada o inalámbrica.
 
 
 
@@ -50,13 +50,13 @@ Debido a que los sistemas 4G autónomos, utilizan la arquitectura del funcionami
 
 #### ¿Qué son los activos de información?
 
-El mundo comenzó un proceso de digitalización acelerado y hiper conexión global desde principios de 2020. Uno de los aspectos más destacados fue la masiva incorporación del trabajo remoto. Esta nueva "era digital" trajo consigo grandes beneficios, pero también trajo consigo nuevas amenazas informáticas. 
+El mundo comenzó un proceso de digitalización acelerado y hiper conexión global desde principios de 2020. Uno de los aspectos más destacados fue la masiva incorporación del trabajo remoto. Esta nueva "era digital" trajo consigo grandes beneficios, pero también trajo consigo nuevas amenazas informáticas.
 
 Es esencial proteger los activos de información a toda costa, ya que son los que dan vida a la organización y permiten que funcione correctamente. Mientras tanto, según las cifras de seguridad cibernética global, los entornos digitales, informáticos y virtuales se encuentran en una situación de mayor inseguridad que en cualquier momento anterior.
 
 Todas las organizaciones, ya sean gubernamentales, empresas privadas u organizaciones no gubernamentales, tienen que proteger los activos de información de alto valor. Toda información o recursos necesarios para crear, almacenar, administrar o transmitir información se denominan activos de información. Estos activos de información son muy valiosos para la alta dirección porque son necesarios para que la organización funcione correctamente y logre los objetivos que ha propuesto.
 
-Algunos activos de información son los siguientes: 
+Algunos activos de información son los siguientes:
 
 
 #### Activos de Información materiales:
